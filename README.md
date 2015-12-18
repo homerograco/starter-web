@@ -11,6 +11,7 @@ Sample website with plenty of files for demos.
 Simple web project, can be located at any server, local or remote.
 
 ## How to Contribute
+Please fork this repository and issue Pull Requests for review.
 
 ### Copyright
 2015 Homero Graco.
