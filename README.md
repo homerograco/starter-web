@@ -11,3 +11,6 @@ Sample website with plenty of files for demos.
 Simple web project, can be located at any server, local or remote.
 
 ## How to Contribute
+
+### Copyright
+2015 Homero Graco.
