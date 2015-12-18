@@ -16,4 +16,4 @@ Simple web project, can be located at any server, local or remote.
 Please fork this repository and issue Pull Requests for review.
 
 ### Copyright
-2015 Homero Graco.
+2015 Homero Graco. All rights reserved.
